@@ -4,7 +4,7 @@ A Python-based structural FEM analysis tool with ANSYS-style UI, stress contour 
 
 ---
 
-## 🧠 Features
+## Features
 - FEM Beam Solver
 - 2D Truss Solver
 - Stress Contour Visualization
@@ -14,6 +14,6 @@ A Python-based structural FEM analysis tool with ANSYS-style UI, stress contour 
 
 ---
 
-## 📦 Installation
+## Installation
 ```bash
 pip install PyQt6 numpy matplotlib reportlab
