@@ -1,4 +1,4 @@
-# 🚀 AeroStructPy Elite
+# AeroStructPy Elite
 
 A Python-based structural FEM analysis tool with ANSYS-style UI, stress contour visualization, and optimization capabilities.
 
